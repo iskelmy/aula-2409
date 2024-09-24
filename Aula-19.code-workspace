@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Desktop/kresley vscode/terminando site"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Aula-19"
+  }
+}
